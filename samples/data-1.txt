@@ -1,0 +1,55 @@
+Fecha: 18/05/20 12:16
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '291653' del colectivo (291653) 'Colectivo 1'. Estado actual 'Pendiente de gestión interna'. Comentarios: Han puesto banner 1000x200 con URL track en Home
+----
+Fecha: 18/05/20 12:21
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '351335' del colectivo (351335) 'Colectivo 2'. Estado actual 'Terminado'. Comentarios: No han puesto nada todavía, enlazan la información del COVID con la página web (aquí tienen banner y URL sin track en slider): https://economistas.es/
+----
+Fecha: 18/05/20 12:22
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '291806' del colectivo (291806) 'Colectivo 3'. Estado actual 'En proceso'. Comentarios: Sigue igual
+----
+Fecha: 18/05/20 12:26
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '351725' del colectivo (351725) 'Colectivo 4'. Estado actual 'En proceso'. Comentarios: Sigue igual: http://www.coprodib.org/convenios-colaboracion/
+----
+Fecha: 18/05/20 12:27
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '291800' del colectivo (291800) 'Colectivo 5'. Estado actual 'En proceso'. Comentarios: Sigue URL sin track
+----
+Fecha: 19/05/20 9:02
+Autor: Usuario 2
+Evento: Se ha creado un nuevo colectivo: Colectivo 6 (291404)
+----
+Fecha: 19/05/20 10:03
+Autor: Usuario 1
+Evento: Cambio de estado en campaña '291404' del colectivo (291404) Colectivo 7'. Nuevo estado 'Pendiente de Proveedor'. Comentarios:
+----
+Fecha: 19/05/20 10:37
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '350277' del colectivo (350277) 'Colectivo 8'. Estado actual 'Terminado'. Comentarios: Han puesto el banner dinámico y URL track en Home
+----
+Fecha: 19/05/20 10:38
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '350252a' del colectivo (350252) 'Colectivo 9'. Estado actual 'Terminado'. Comentarios: Han puesto banner en Home, al lado del genérico, con URL track
+----
+Fecha: 19/05/20 10:47
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '360048' del colectivo (360048) 'Colectivo 10'. Estado actual 'Terminado'. Comentarios: Han puesto link sin URL aquí: https://web.oculta.es/es/portal.do?IDM=829&NM=4
+----
+Fecha: 19/05/20 10:49
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '290662' del colectivo (290662) 'Colectivo 11'. Estado actual 'Terminado'. Comentarios: No veo enlace, seguramente se mandara por correo o boletín.
+----
+Fecha: 19/05/20 10:59
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '351032' del colectivo (351032) 'Colectivo 12'. Estado actual 'Terminado'. Comentarios: Puesto banner de acompañamiento en slider de Home y enlace sin track
+----
+Fecha: 19/05/20 12:01
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '351661' del colectivo (351661) 'Colectivo 13'. Estado actual 'Terminado'. Comentarios: Logo 480x270 aquí CAT: https://web.oculta.com/1FDyrnkm2SfUT8YHkj7mprqfrtb30_pGrsuOpun8WzX6umx5g8SaiV4ROYClSvgOgEdyde7Ojr-tCWNzIKlE1GcyFz0h0k11WjCCFFjrNhsbIMZ62GNJOLO6xZeFONy8dkSYl1GYSt1dNF9sMTYe8LzDXCcX-1eFoPq3G5gFqNvMpsLPHOIE9HqOTKtzqJGvdRNox8XzdtyN7vWk2M8r2wOMlUnpIPTQaVlwC08XVCOoF7UsPjkHgZSpO_WJF46rNmlBvFailAzQoppfIWWXNxsV77VS_P9HdF_pyzE0fNLPI4yC17Jn0yt7XRHhFTPfvly5g2Dx7lU-inVjN10Vz2oUuUo-q0pAAdVXiaBgODd-Y-a044ZI804a9oiB2x
+----
+Fecha: 19/05/20 12:12
+Autor: Usuario 1
+Evento: Añadidos comentarios en campaña '291601' del colectivo (291601) 'Colectivo 14'. Estado actual 'Terminado'. Comentarios: Logo aquí 48x48. Habría que mandar enlace con tracking y logo nuevo: https://web.oculta.com/1lylpvctJ3Sw-UvwrlJg0co_RapL1Hx5jZR4TQ5Eh992ZS_cZqXsd7sPwEFhfbZ1joBm0ttv-K6U3pwoZUAqAcjwDnwKhhpBGjMCUixWlkS-o1akG7dFLraADWWSFHj5WDv1BeNQ86_yAaaRP_EsUARkqHCTDSzCVGRk1VOOgmW4faJIM8naAr7LXPFt-nDcWX1u8zYkzmLTtvlz27noqhENBNF9SfYY0erp_B3scUeSGCOcCNc_tQHmkcaGT0V_NFn9JShN7ulKFjYJV7gxpzWgMHIQGoYVcJ2a7qxT1Gp0LChHDDDA72U1HOH072N3Oea5rJOne6RCN1_vU9RI6wpm5OsOl5l08Rbn4YeoROmIxYhRXAXlvyo9LyySFbzfyVVbEj6en4IveFqC-goCW

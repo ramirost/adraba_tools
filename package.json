@@ -1,0 +1,25 @@
+{
+  "name": "adraba_tools",
+  "version": "0.0.1",
+  "license": "commercial",
+  "private": true,
+  "scripts": {
+    "c3": "ts-node src/c3.ts"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.5",
+    "@types/papaparse": "^5.0.3",
+    "@types/yargs": "^15.0.5",
+    "dayjs": "^1.8.28",
+    "papaparse": "^5.2.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "tslint": "^6.1.2"
+  },
+  "engines": {
+    "node": "^12"
+  }
+}
