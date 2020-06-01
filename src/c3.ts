@@ -136,7 +136,7 @@ async function* parseFile(file: string): AsyncIterableIterator<EventEntry> {
   for await (const l of rl) {
     const line = l.trim();
     if (line.startsWith(FECHA)) {
-      currentEntry.date = dayjs(line.substring(FECHA.length).trim(), "DD/MM/YY HH:mm").format("YYYY-MM-DDTHH:mm:ss");
+      currentEntry.date = dayjs(line.substring(FECHA.length).trim(), "D/M/YY HH:mm").format("YYYY-MM-DDTHH:mm:ss");
     } else if (line.startsWith(AUTOR)) {
       currentEntry.author = line.substring(AUTOR.length);
     } else if (line.startsWith(EVENTO)) {
