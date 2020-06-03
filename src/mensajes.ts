@@ -20,6 +20,8 @@ select
 M.fecha, U.fullname, M.mensaje
 from CCC_MENSAJEGLOBAL M left join CIS_USER U on M.remitente=U.id
 where fecha like '2020%' order by fecha
+
+Acceso con "MySQL Query Browser", con "MySQL Workbench" no funciona por la edad del servidor
 */
 async function main(): Promise<number> {
   const argv = yargs
