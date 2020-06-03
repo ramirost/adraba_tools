@@ -4,7 +4,8 @@
   "license": "commercial",
   "private": true,
   "scripts": {
-    "c3": "ts-node src/c3.ts"
+    "c3": "ts-node src/c3.ts",
+    "mensajes": "ts-node src/mensajes.ts"
   },
   "dependencies": {
     "@types/node": "^14.0.5",
