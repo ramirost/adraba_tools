@@ -59,3 +59,19 @@ yarn c3 --entrada ~/adraba_tools/samples/ --salida ~/ejemplo_c3.csv
 ```
 
 El resultado estará en el archivo `ejemplo_c3.csv` del directorio del usuario.
+
+# Solución de problemas
+
+Si tras la primera instalación no funciona alguno de los comandos, comprobar si hay una archivo `.bashrc` en el directorio de usuairo `~`
+
+```
+cat ~/.bashrc
+```
+
+Si ese archivo no existe crearlo al menos con este contenido
+
+```
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+```
